@@ -1,0 +1,54 @@
+﻿using System;
+
+namespace ExerciseOne
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Program that prints your first and last name
+            /*
+                Console.Write("Evans");
+                Console.Write("Joel");
+            */
+
+            //----------------------------------------------------------------------------------
+
+
+
+            //Program that prints the following numbers on the console 
+            //1, 101, 1001 each on a new line.
+            /*
+                Console.WriteLine(1);
+                Console.WriteLine(101);
+                Console.WriteLine(1001);
+            */
+            //----------------------------------------------------------------------------------
+
+
+
+            //Program that prints current date and time
+            /*
+                Console.WriteLine(DateTime.Now);
+            */
+            //----------------------------------------------------------------------------------
+
+
+
+            //Program that prints the square root of 12345
+            /*
+                Console.WriteLine(Math.Sqrt(12345));
+            */
+            //----------------------------------------------------------------------------------
+
+
+
+            //Program that prints the first 100 members of the squence 2, -3, 4, -5, 6, -7, 8
+            for (int i = 0; i < 100; i++)
+            {
+                Console.WriteLine(i);
+                //Incomplete
+            }
+        }
+    }
+}
