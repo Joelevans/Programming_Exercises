@@ -11,7 +11,6 @@ namespace ExerciseOne
                 Console.Write("Evans");
                 Console.Write("Joel");
             */
-
             //----------------------------------------------------------------------------------
 
 
@@ -44,11 +43,32 @@ namespace ExerciseOne
 
 
             //Program that prints the first 100 members of the squence 2, -3, 4, -5, 6, -7, 8
+            /*
             for (int i = 0; i < 100; i++)
             {
+                
                 Console.WriteLine(i);
+                
                 //Incomplete
+                //Requires loops knowledge
             }
+            */
+            //----------------------------------------------------------------------------------
+
+
+
+            //Program that reads your age from the console and prints your age after 10 years
+            /*
+            Console.WriteLine("How old are you?");
+            int age = int.Parse(Console.ReadLine());
+            int newAge = age + 10;
+            Console.WriteLine("In 10 years time, you will be" + " " + newAge +" " + "years old !");
+            */
+            //----------------------------------------------------------------------------------
+
+
+            /*---------------------------END--------------------------------------*/
+
         }
     }
 }
