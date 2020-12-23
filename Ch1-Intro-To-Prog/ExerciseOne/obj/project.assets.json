@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ochol\\source\\repos\\ExerciseOne\\ExerciseOne.csproj",
+      "projectUniqueName": "C:\\Users\\ochol\\source\\repos\\Console Applications\\Programming_Exercises\\Ch1-Intro-To-Prog\\ExerciseOne\\ExerciseOne.csproj",
       "projectName": "ExerciseOne",
-      "projectPath": "C:\\Users\\ochol\\source\\repos\\ExerciseOne\\ExerciseOne.csproj",
+      "projectPath": "C:\\Users\\ochol\\source\\repos\\Console Applications\\Programming_Exercises\\Ch1-Intro-To-Prog\\ExerciseOne\\ExerciseOne.csproj",
       "packagesPath": "C:\\Users\\ochol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ochol\\source\\repos\\ExerciseOne\\obj\\",
+      "outputPath": "C:\\Users\\ochol\\source\\repos\\Console Applications\\Programming_Exercises\\Ch1-Intro-To-Prog\\ExerciseOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
