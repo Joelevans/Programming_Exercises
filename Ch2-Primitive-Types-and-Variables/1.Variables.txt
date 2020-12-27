@@ -1,6 +1,6 @@
 Preserved temporarily in the random access memory of our
 computer. The values in this part of memory change (vary)
-throughot execution and this has led to their name
+throughout execution and this has led to their name
  	-Variables.
 
 Correspondence btwn C# and .NET Types
