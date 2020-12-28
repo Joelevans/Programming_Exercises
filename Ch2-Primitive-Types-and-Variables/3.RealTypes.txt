@@ -1,0 +1,50 @@
+#Real Floating-Point Types
+
+Real Types are the real numbers we know from math.
+Rep by a floating-point and are float and double.
+
+#Real Type Float
+-32-bit
+-AKA single precision real number.
+-default value is 0.0f.
+-f explicitly indicates that the number is of type float
+(by default all real numbers are considered double)
+-has accuracy up to 7 dp (the others are lost)
+-range of values 
++-1.5 x 10^-45  to +-3.4 x 10^38.
+
+##Special values of the Real Types
+-special values that are not real numbers but mathematical
+abstractions.
+-Negative infinity(Single.NegativeInfinity)
+Obtained when dividing -1.0f by 0.0f.
+
+-Positive infinity(Single.PositiveInfinity)
+Obtained when dividing 1.0f by 0.0f.
+
+-Uncertainty(Single.NaN)
+means that an invalid operation is performed by real numbers.
+Obtained when e.g dividing 0.0f by 0.0f
+as well as when calculating square root of a negative no.
+
+
+#Real Type Double
+-AKA double precision real number.
+-64bit
+-default value 0.0d
+d isn't mandatory as all real numbers are double by default
+- has a precision of 15-16 values
+-ranges from +-5.0 x 10^-324 to +-1.7 x 10^308
+
+smallest value is the constant Double.MinValue
+= -1.79769e+308
+and the largest value is Double.MaxValue
+= 1.79769e+308
+
+The closest to 0 is Double.Epsilon
+=4.94066e-324
+
+It can also take the special values
+Double.PositiveInfinity, 
+Double.NegativeInfinity
+Double.NaN
