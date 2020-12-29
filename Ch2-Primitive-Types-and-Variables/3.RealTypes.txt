@@ -48,3 +48,56 @@ It can also take the special values
 Double.PositiveInfinity, 
 Double.NegativeInfinity
 Double.NaN
+
+#Errors in Calculations with Real Types
+during representation of a real number, it tends to lose 
+accuracy.
+The reason of this is the inability of some real numbers
+to be represented exactly as a sum of negative powers of
+the number 2.
+
+Examples of numbers taht do not have an accurate rep
+in float and double:
+0.1, 1/3, 2/7 and other.
+---FloatCalcError.cs--- [sample code]
+
+Floating point number arithmetic can produce mistakes
+and therefore not appropriate for precise financial
+calculations.
+C# supports decimal precision arithmetic where numbers like
+0.1 are presented in the memory without rounding.
+
+
+###Real Types with Decimal Precision
+Where numbers are represented via the decimal numeral
+system rather than the binary one. 
+decimal floating-point arithmetic type does not lose accuracy
+when storing and processing floating-point numbers.
+
+decimal
+-128-bit
+-has a precision of 28 to 29 decimal places.
+-minimal value is -7.9 x 10^28
+-maximum value is +7.9 x 10^28
+default value is 0.0m
+m indicates that it is of type decimal
+
+The closest to 0 are +-1.0 x 10 ^-28
+It is obvious that decimal can store neither very big
+numbers nor values very close to 0.
+Though losses from rounding off are much smaller than when
+using binary representation.
+The main difference between real floating-point numbers and
+real numbers with decimal precision is the accuracy of 
+calculations and the extent to which they round up the
+stored values. The double type allows us to work with 
+very large values and values very close to zero but at 
+the expense of accuracy and some unpleasant rounding errors.
+The decimal type has smaller range but ensures greater 
+accuracy in computation, as well as absence of anomalies 
+with the decimal numbers.
+
+All calculations with data of type decimal are done 
+completely by software  rather than directly at low
+microprocessor level, it is slower than double.
+Only use when neccessary.
