@@ -1,0 +1,13 @@
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\bin\Debug\netcoreapp3.1\IterationsVS.exe
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\bin\Debug\netcoreapp3.1\IterationsVS.deps.json
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\bin\Debug\netcoreapp3.1\IterationsVS.runtimeconfig.json
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\bin\Debug\netcoreapp3.1\IterationsVS.runtimeconfig.dev.json
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\bin\Debug\netcoreapp3.1\IterationsVS.dll
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\bin\Debug\netcoreapp3.1\IterationsVS.pdb
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\obj\Debug\netcoreapp3.1\IterationsVS.csprojAssemblyReference.cache
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\obj\Debug\netcoreapp3.1\IterationsVS.AssemblyInfoInputs.cache
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\obj\Debug\netcoreapp3.1\IterationsVS.AssemblyInfo.cs
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\obj\Debug\netcoreapp3.1\IterationsVS.csproj.CoreCompileInputs.cache
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\obj\Debug\netcoreapp3.1\IterationsVS.dll
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\obj\Debug\netcoreapp3.1\IterationsVS.pdb
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Codility\Iterations\IterationsVS\obj\Debug\netcoreapp3.1\IterationsVS.genruntimeconfig.cache
