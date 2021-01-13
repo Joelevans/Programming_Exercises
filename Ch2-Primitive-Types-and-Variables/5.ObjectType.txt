@@ -1,0 +1,6 @@
+special type, which is the parent of all other types in the
+.NET Framework.
+Declared with the keyword object.
+Can take values from any other type.
+It is a reference type i.e an index (address) of a memory 
+area which stores the actual value.
