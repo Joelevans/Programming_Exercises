@@ -1,0 +1,27 @@
+are specific wrappers around the valuetypes (as int, double 
+and bool) that allow storing data with a null value.
+This provides opportunity for types that generally do not
+allow a lack of value to be used as reference types and to
+accept both normal values and the special one null.
+
+Wrapping can be done in two ways:
+Nullable<int> i1 = null;
+int? i2 = il;
+
+Both declarations are equivalent.
+
+Nullable types are reference types i.e they reference to an 
+object in the dynamic memory, which contains their actual 
+value.
+They may or may not have a value and can be used as 
+normal primitive data types, but with some specifics.
+
+---------------------example--------------------------
+Nullable types are used for storing information, which is
+not mandatory. Eg if we want to store data for a student
+such as the first name and last name as mandatory and age
+as not required we can use type int? for the age variable:
+
+string firstName = "John";
+string lastName = "Smith";
+int? age = null;
