@@ -56,7 +56,7 @@ The reason of this is the inability of some real numbers
 to be represented exactly as a sum of negative powers of
 the number 2.
 
-Examples of numbers taht do not have an accurate rep
+Examples of numbers that do not have an accurate rep
 in float and double:
 0.1, 1/3, 2/7 and other.
 ---FloatCalcError.cs--- [sample code]
