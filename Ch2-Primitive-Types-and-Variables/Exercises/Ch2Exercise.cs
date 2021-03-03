@@ -180,7 +180,66 @@ class Ch2Exercise
 		*/
 		
 		//-------------------------------------
-	}
+			/*
+				char copyright = '\u00A9';
+				Console.OutputEncoding = System.Text.Encoding.UTF8;
+				Console.WriteLine(copyright + "  " + copyright + "  " + copyright + "  " + copyright);
+				Console.WriteLine(copyright + "      " + copyright);
+				Console.WriteLine(copyright + "   " + copyright);
+				Console.WriteLine(copyright);
+			*/
+			
+	
+	
+		//---Qsn-12--
+		//-------------------------------------	
+		/*
+		A company dealing with marketing wants to keep a data record of its employees. Each record should have the following 
+		characteristic – first name, last name, age, gender (‘m’ or ‘f’) and unique employee number (27560000 to 27569999). 
+		Declare appropriate variables needed to maintain the information for an employee by using the appropriate data types and attribute names.
+		*/
+			/*
+				string firstName, lastName;
+				byte age;
+				char genderM = 'm';
+				char genderF = 'f';
+				int uniqueNumber;
+			*/
+			
+			
+		//---Qsn-13--
+		//-------------------------------------		
+		/*
+		Declare two variables of type int. Assign to them values 5 and 10 respectively. Exchange (swap) their values and print them.
+		*/		
+			
+			//First method using temporary variable
+			/*	int A,B,C;
+				A = 5;
+				B = 10;
+				
+				C = A;
+				A = B;
+				B = C;
+				
+				Console.WriteLine("A:"+ A +"\n" + "B:" + B + "\n" + "C:" + C);
+			*/
+			
+			//Second method
+			/*	int A, B;
+				A = 5;
+				B = 10;
+				
+				A = A + B;
+				B = A - B;
+				A = A - B;
+				
+				Console.WriteLine("A:"+ A +"\n" + "B:" + B );
+			*/
+			
+	
+			
+		}
 	
 	
 	
