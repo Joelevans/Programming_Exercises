@@ -43,16 +43,16 @@ namespace ExerciseOne
 
 
             //Program that prints the first 100 members of the squence 2, -3, 4, -5, 6, -7, 8
-            /*
-            for (int i = 0; i < 100; i++)
+
+            for (int i = 2; i < 51; i = i + 2)
             {
-                
+
                 Console.WriteLine(i);
-                
-                //Incomplete
-                //Requires loops knowledge
+                var neg = -1 - i;
+                Console.WriteLine(neg);
+
             }
-            */
+
             //----------------------------------------------------------------------------------
 
 
