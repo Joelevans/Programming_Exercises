@@ -1,0 +1,69 @@
+Operators allow for processing of primitive data types and objects
+In mathematics, an operand is the object of a mathematical
+operation
+can be seperated into different categories:
+-Arithmetic - to perform simple mathematical operations.
+-Assignment - allow assigning values to variables.
+-Comparison - allow comparison of two literals and/or variables.
+-Logical - operators that work with Boolean data types and Boolean
+	expressions.
+-Binary - used to perform operations on the binary representation
+	of numerical data.
+-Type conversion - allow conversion of data from one type to 
+	another.
+
+
+-----------------------------------------------
+Arithmetic Operators
+--------------------
+Integer divison by 0 is not allowed,
+causes DivideByZeroException
+
+Real division by 0 is allowed
+the result is +(Infinity) , -(Infininty) or NaN(invalid value)
+
+
+prefix ++/ --
+The new value is calculated first and then the result is returned
+
+postfix ++/--
+The original value of the operand is returned first then the
+addition or subtraction is performed.
+
+
+----------------------------------------------------
+Logical Operators
+Basic boolean operators are
+AND - && [Returns true when both variables contain truth]
+OR - || [Returns true when at least one of the operands is true]
+Exclusive or - ^ [Returns true when one of the operands is true]
+Logical negation - ! [Changes the value of the argument] - Unary
+
+Laws of De Morgan
+!(a && b) == (!a || !b)
+- The negation of the conjuction of two propositions is equal to the
+disjunction of their negations.
+	where conjuction (AND)
+	where disjunction (OR)
+
+!(a || b) == (!a && !b)
+- The negation of the disjunction of both statements is equivalent to
+the conjuction of their negations
+
+----------------------------------------------------
+Conditional Operator
+?:
+operand1 ? operand2 : operand3
+
+----------------------------------------------------
+Type Conversion Operator
+(type) used to convert a variable from one type to another
+"as" is also used for type conversion but invalid conversion returns null,
+not an exception
+"new" is used to create and initialize objects
+"is" is used to check whether an object is compatible with a given type
+(check object's type)
+"??" is similar to the Conditional operator ?:
+The difference is that it is placed between two operands
+and returns the left operand only if its value is not null,
+otherwise it returns the right operand.

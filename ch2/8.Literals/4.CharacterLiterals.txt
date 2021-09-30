@@ -1,0 +1,21 @@
+These are single characters enclosed in apostrophes.
+Value of type char can be:
+ - 'A'
+ - character code e.g '\u0065'
+ - an escaping sequence
+
+Escaping sequences
+-cannot be represented directly in the source code.
+e.g "new line" character.
+Here are some of the most frequently used escaping sequences
+- \' - single quote.
+- \" - double quotes.
+- \\ - backslash
+- \n - new line
+- \t - offset(tab)
+- \uXXXX - char specified by its Unicode number e.g \u03A7
+
+the character \ is also called an escaping character because it
+allows the display on the screen (or other output device) of
+characters that have special meaning or effect and cannot be
+represented directly in the source code.

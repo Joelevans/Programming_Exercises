@@ -1,0 +1,26 @@
+C:\Users\ochol\source\repos\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.exe
+C:\Users\ochol\source\repos\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.deps.json
+C:\Users\ochol\source\repos\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.runtimeconfig.json
+C:\Users\ochol\source\repos\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.runtimeconfig.dev.json
+C:\Users\ochol\source\repos\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.dll
+C:\Users\ochol\source\repos\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.pdb
+C:\Users\ochol\source\repos\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.csprojAssemblyReference.cache
+C:\Users\ochol\source\repos\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.AssemblyInfoInputs.cache
+C:\Users\ochol\source\repos\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.AssemblyInfo.cs
+C:\Users\ochol\source\repos\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\ochol\source\repos\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.dll
+C:\Users\ochol\source\repos\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.pdb
+C:\Users\ochol\source\repos\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.genruntimeconfig.cache
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.exe
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.deps.json
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.runtimeconfig.json
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.runtimeconfig.dev.json
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.dll
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\bin\Debug\netcoreapp3.1\ExerciseOne.pdb
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.csprojAssemblyReference.cache
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.AssemblyInfoInputs.cache
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.AssemblyInfo.cs
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.dll
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.pdb
+C:\Users\ochol\source\repos\Console Applications\Programming_Exercises\Ch1-Intro-To-Prog\ExerciseOne\obj\Debug\netcoreapp3.1\ExerciseOne.genruntimeconfig.cache

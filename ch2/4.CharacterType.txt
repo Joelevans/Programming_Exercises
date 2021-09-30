@@ -1,0 +1,9 @@
+Character type is a single character (16bit number of unicode
+table character).
+declared with the keyword char.
+Unicode tabe is a technological standard that represents
+any character (letter, punctuation, etc) from all human
+languages as writing systems with an integer or a sequence
+of integers.
+smallest value is 0
+largest value is 65535
