@@ -1,0 +1,26 @@
+To perform an operation on two different data types,
+we need to convert both to the same data type.
+Type casting can either be implicit or explicit.
+
+----------------------------------------------------------
+Implicit type conversion
+- when you assign a lower range to a variable with larger
+ range.
+
+ Explicit type conversion
+ - used whenever there is a possibility of data loss.
+ - converting a type with a wider range to type with
+    a narrow one.(double to float/long to int)
+
+Forcing Overflow exceptions during casting
+- sometimes its convenient instead of getting the wrong
+result, when a type overflows during switching from
+larger to smaller type,  to get notification of the 
+problem.
+
+        double d = 5e9d;
+        int i = checked((int)d);
+
+
+N/B::: conversion to or from string is not possible through
+        typecasting
