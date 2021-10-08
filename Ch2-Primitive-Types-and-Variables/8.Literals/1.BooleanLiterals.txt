@@ -1,9 +1,0 @@
-are
--true
--false
-
-we can use only one of these two values or a Boolean 
-expression ( which is calculated to true or false)
-
-e.g
-bool result = true;
