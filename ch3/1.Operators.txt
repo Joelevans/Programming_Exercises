@@ -51,6 +51,27 @@ disjunction of their negations.
 the conjuction of their negations
 
 ----------------------------------------------------
+Bitwise Operators
+- operator that acts on the binary representation of numeric types
+- similar to logical operations
+bit shifting operators
+bit shift left (<<) - multiplication by a power of 2
+bit shift right (>>) - division by a power of 2
+The bits that fall outside the number are lost and replaced with 0
+
+e.g 3 << 2 means move the bits of number 3 twice to the left.
+0000 0011 is 3
+0000 1100 is 12
+
+a | b
+a & b
+a ^ b
+~a & b
+a << 1
+a << 2
+a >> 1
+
+----------------------------------------------------
 Conditional Operator
 ?:
 operand1 ? operand2 : operand3
