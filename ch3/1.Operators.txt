@@ -63,7 +63,7 @@ e.g 3 << 2 means move the bits of number 3 twice to the left.
 0000 0011 is 3
 0000 1100 is 12
 
-a | b
+a | b - Inclusive OR -  Addition
 a & b
 a ^ b
 ~a & b
