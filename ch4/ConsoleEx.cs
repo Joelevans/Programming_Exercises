@@ -78,5 +78,22 @@ class ConsoleEx
         // Console.WriteLine(max);
         // Console.Write(((a - b) >> 31)); //Soln3
 
+        /*7*/
+        Console.WriteLine("Enter 5 integers :");
+        int sum = 0;
+        int num = 0;
+        for (int i = 0; i < 5; i++)
+        {
+            String str = Console.ReadLine();
+            bool parseSuccess = int.TryParse(str, out num);
+            while (!parseSuccess)
+            {
+                Console.WriteLine("Enter valid number");
+                str = Console.ReadLine();
+                parseSuccess = int.TryParse(str, out num);
+            }
+            sum += num;
+        }
+        Console.WriteLine("Sum is {0}", sum);
     }
 }
