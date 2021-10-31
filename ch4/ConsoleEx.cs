@@ -113,5 +113,39 @@ class ConsoleEx
 
         // }
         // Console.WriteLine("Largest Number is {0}", max);
+
+        /*9*/
+
+        // int a = 0;
+        // int sum = 0;
+
+        // Console.WriteLine("Enter an Integer: ");
+        // String str = Console.ReadLine();
+        // bool parseSuccess = int.TryParse(str, out a);
+
+        // while(!parseSuccess)
+        // {
+        //     Console.WriteLine("Enter a valid Integer: ");
+        //     str = Console.ReadLine();
+        //     parseSuccess = int.TryParse(str, out a);
+        // }
+
+        // for (int i = 0; i < 5; i++)
+        // {
+        //     Console.Write("Enter a number: ");
+        //     int num = 0;
+        //     String strRead = Console.ReadLine();
+        //     bool success = int.TryParse(strRead, out num);
+
+        //     while(!success)
+        //     {
+        //         Console.WriteLine("Enter a valid Integer: ");
+        //         strRead = Console.ReadLine();
+        //         success = int.TryParse(strRead, out num);
+        //     }
+
+        //     sum += num;
+        // }
+        // Console.WriteLine("The sum is {0}", sum);
     }
 }
