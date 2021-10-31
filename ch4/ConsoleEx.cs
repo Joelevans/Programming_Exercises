@@ -147,5 +147,12 @@ class ConsoleEx
         //     sum += num;
         // }
         // Console.WriteLine("The sum is {0}", sum);
+
+        /*10*/
+        // int num = int.Parse(Console.ReadLine());
+        // for (int i = 1; i <= num; i++)
+        // {
+        //     Console.WriteLine(i);
+        // }
     }
 }
