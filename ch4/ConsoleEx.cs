@@ -154,5 +154,55 @@ class ConsoleEx
         // {
         //     Console.WriteLine(i);
         // }
+
+        /*11*/
+        // ulong a = 0;
+        // ulong b = 1;
+        // ulong c = 0;
+        // Console.WriteLine(a);
+        // Console.WriteLine(b);
+
+        // for (int i = 2; i < 100; i++)
+        // {
+        //     c = a + b;
+        //     int counter = i;
+        //     Console.Write("{0}. ", counter);
+        //     Console.WriteLine(c);
+        //     a = b;
+        //     b = c;
+
+        // }
+
+        /*12*/
+
+        double delta = 0.001;
+        double pos = 1.0;
+        double neg = 0.0;
+
+        double currentSum = pos + neg;
+        double previousSum = 0;
+
+        int i = 2;
+
+        while (Math.Abs(currentSum - previousSum) >= delta)
+        {
+            if (i % 2 == 0)
+            {
+                pos += 1.0 / i;
+            }
+            else
+            {
+                neg -= 1.0 / i;
+            }
+
+            previousSum = currentSum;
+            currentSum = pos + neg;
+
+            i++;
+
+        }
+        Console.WriteLine("{0:F3}", currentSum);
+        Console.WriteLine("{0:F3}", previousSum);
+
     }
 }
