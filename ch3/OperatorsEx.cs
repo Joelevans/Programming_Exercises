@@ -117,5 +117,17 @@ class OperatorsEx
         //   + fourthChar.ToString();
 
         // Console.WriteLine(exchangeSecondAndThird);
+
+
+        // /*11*/
+        // Console.Write("Enter a number: ");
+        // int num = int.Parse(Console.ReadLine());
+
+        // Console.Write("Enter a position: ");
+        // int pos = int.Parse(Console.ReadLine());
+
+        // int i = 1;
+        // int mask = i << pos; // Move the 1st bit left by p positions
+        // Console.WriteLine( (num & mask) != 0 ? 1 : 0);
     }
 }
