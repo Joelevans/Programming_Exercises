@@ -59,5 +59,30 @@ class OperatorsEx
         // int r = 5;
         // bool withinCircle = ( (x * x) + (y * y) ) <= (r * r);
         // Console.Write(withinCircle ? "The point is within the circle" : "The point is not in the circle");
+
+        /*9*/
+        // int x = 0;
+        // int y = 0;
+        // int radius = 5;
+        // bool withinCircle = ((x * x) + (y * y) <= (radius * radius));
+        
+        // //rectangle bottom left co-ordinate
+        // int coordDx = -1;
+        // int coordDy = 1;
+
+        // //rectangle top right co-ordinate
+        // int coordBx = 5;
+        // int coordBy = 5;
+
+        // /*
+        //  *Point lies inside the rectangle if its x co-ordinate lies between
+        //  *the given bottom left and top right
+        //  *AND
+        //  *if its y co-ordinate lies between the given bottom left and top right
+        //  */
+
+        //  bool withinRectangle = ((coordDx <= x) & (x <= coordBx)) & ((coordDy <= y ) & (y <= coordBy));
+
+        //  Console.WriteLine(withinCircle & withinRectangle ? "The points are within Circle and Rectangle" : "The points are outside circle or rectangle");
     }
 }
