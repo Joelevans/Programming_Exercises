@@ -84,5 +84,38 @@ class OperatorsEx
         //  bool withinRectangle = ((coordDx <= x) & (x <= coordBx)) & ((coordDy <= y ) & (y <= coordBy));
 
         //  Console.WriteLine(withinCircle & withinRectangle ? "The points are within Circle and Rectangle" : "The points are outside circle or rectangle");
+
+
+        // /*10*/
+        // int num = int.Parse(Console.ReadLine());
+        // string numString = num.ToString();
+        // char firstChar = numString[0];
+        // char secondChar = numString[1];
+        // char thirdChar = numString[2];
+        // char fourthChar = numString[3];
+
+        // //sum
+        // int sum = int.Parse(firstChar.ToString()) + int.Parse(secondChar.ToString())
+        //           + int.Parse(thirdChar.ToString()) + int.Parse(fourthChar.ToString());
+
+        // Console.WriteLine(sum);
+
+        // //last digit in the first position
+        // string lastDigitInFirst = 
+        //   fourthChar.ToString()
+        //   + firstChar.ToString()
+        //   + secondChar.ToString()
+        //   + thirdChar.ToString();
+
+        // Console.WriteLine(lastDigitInFirst);
+
+        // //exchange second and third digits
+        // string exchangeSecondAndThird =
+        //   firstChar.ToString()
+        //   + thirdChar.ToString()
+        //   + secondChar.ToString()
+        //   + fourthChar.ToString();
+
+        // Console.WriteLine(exchangeSecondAndThird);
     }
 }
