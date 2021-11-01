@@ -52,5 +52,12 @@ class OperatorsEx
         // int weight = int.Parse(Console.ReadLine());
         // float weightOnTheMoon = weight * 0.17f;
         // Console.Write("Weight on the moon is {0}", weightOnTheMoon);
+
+        /*8*/
+        // int x = 0;
+        // int y = 0;
+        // int r = 5;
+        // bool withinCircle = ( (x * x) + (y * y) ) <= (r * r);
+        // Console.Write(withinCircle ? "The point is within the circle" : "The point is not in the circle");
     }
 }
