@@ -65,7 +65,7 @@ class OperatorsEx
         // int y = 0;
         // int radius = 5;
         // bool withinCircle = ((x * x) + (y * y) <= (radius * radius));
-        
+
         // //rectangle bottom left co-ordinate
         // int coordDx = -1;
         // int coordDy = 1;
@@ -129,5 +129,27 @@ class OperatorsEx
         // int i = 1;
         // int mask = i << pos; // Move the 1st bit left by p positions
         // Console.WriteLine( (num & mask) != 0 ? 1 : 0);
+
+        /*12*/
+        //similar to the above question
+
+        // /*13*/
+        // //Given
+        // int n = 35;
+        // int v = 1;
+        // int p = 2;
+        // //output n = 3;
+
+        // if (v == 0)
+        // {
+        //     n = n & (~(1 << p));
+        // }
+        // else
+        // {
+        //     n = n | (1 << p);
+        // }
+        // Console.Write(n);
+
+
     }
 }
