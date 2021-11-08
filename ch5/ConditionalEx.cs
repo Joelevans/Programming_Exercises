@@ -18,5 +18,29 @@ class ConditionalEx
         // Console.WriteLine("a is {0}", a);
         // Console.WriteLine("b is {0}", b);
 
+        // /*2*/
+        // double a = double.Parse(Console.ReadLine());
+        // double b = double.Parse(Console.ReadLine());
+        // double c = double.Parse(Console.ReadLine());
+        // bool isPositive;
+
+        // if ((a > 0) && (b > 0) && (c > 0)) //all are positive
+        // {
+        //     isPositive = true;
+        // }
+        // else if ((a > 0) ^ (b > 0) ^ (c > 0))//one and only one is positive
+        // {
+        //     isPositive = true;
+        // }
+        // else if ((a < 0) ^ (b < 0) ^ (c < 0))//one and only one is negative
+        // {
+        //     isPositive = false;
+        // }
+        // else
+        // {
+        //     isPositive = false;
+        // }
+
+        // Console.WriteLine(isPositive);
     }
 }
