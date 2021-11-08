@@ -150,6 +150,34 @@ class OperatorsEx
         // }
         // Console.Write(n);
 
+        // /*14*/
+        // int n;
+        // bool isPrime = false;
 
+        // Console.Write("Enter a number that is greater than 1 and less than 100 : ");
+        //  n = int.Parse(Console.ReadLine());
+
+        // while (n <= 1 | n >= 100)
+        // {
+        //     Console.WriteLine("You entered an incorrect number");
+        //     n = int.Parse(Console.ReadLine());
+        // }
+
+        // Console.WriteLine("{0} is greater than 1 and less than 100", n);
+
+        // for (int i = 2; i < Math.Sqrt(n); i++)
+        // {
+        //     if (n % i == 0)
+        //     {
+        //         isPrime = false;
+        //         break;
+        //     }
+        //     else
+        //     {
+        //         isPrime = true;
+        //     }
+        // }
+        // Console.WriteLine(isPrime);
+        
     }
 }
