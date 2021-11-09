@@ -185,5 +185,22 @@ class ConditionalEx
         //     Console.Write("out of range");
         //     break;
         // }
+
+        /*6*/
+        //out of range
+
+        /*7*/
+        // int num = 0;
+        // int largest = 0;
+
+        // for (int i = 0; i < 5; i++)
+        // {
+        //     Console.WriteLine("Enter a number:");
+        //     num = int.Parse(Console.ReadLine());
+        //     if(num > largest)
+        //         largest = num;
+        // }
+
+        // Console.WriteLine("{0} is the largest", largest);
     }
 }
