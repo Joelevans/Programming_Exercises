@@ -202,5 +202,57 @@ class ConditionalEx
         // }
 
         // Console.WriteLine("{0} is the largest", largest);
+
+        /*8*/
+        // int number = 0;
+        // string name = "";
+        // double realNumber = 0.0;
+
+        // Console.WriteLine("Choose an input: ");
+        // Console.WriteLine("0: int");
+        // Console.WriteLine("1: double");
+        // Console.WriteLine("2: string");
+
+
+        // string str = Console.ReadLine();
+        // if (str == "0")
+        // {
+        //     Console.Write("Enter an int: ");
+        //     number = int.Parse(Console.ReadLine());
+        // }
+        // else if (str == "1")
+        // {
+        //     Console.Write("Enter a double: ");
+        //     realNumber = double.Parse(Console.ReadLine());
+        // }
+        // else if (str == "2")
+        // {
+        //     Console.WriteLine("Enter your name: ");
+        //     name = Console.ReadLine();
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Selection out of range");
+        // }
+
+        // switch (int.Parse(str))
+        // {
+        //     case 0:
+        //         number++;
+        //         Console.WriteLine(number);
+        //     break;
+        //     case 1:
+        //         realNumber++;
+        //         Console.WriteLine(realNumber);
+        //     break;
+        //     case 2:
+        //         name = name + "*";
+        //         Console.WriteLine(name);
+        //     break;
+        //     default:
+        //         Console.WriteLine("out of range");
+        //         break;
+            
+        // }
     }
 }
