@@ -4,7 +4,7 @@ class ConditionalEx
 {
     static void Main(string[] args)
     {
-        // /*1*/
+        /*1*/
         // int a = 20;
         // int b = 15;
         // int c = 0;
@@ -18,7 +18,7 @@ class ConditionalEx
         // Console.WriteLine("a is {0}", a);
         // Console.WriteLine("b is {0}", b);
 
-        // /*2*/
+        /*2*/
         // double a = double.Parse(Console.ReadLine());
         // double b = double.Parse(Console.ReadLine());
         // double c = double.Parse(Console.ReadLine());
@@ -42,5 +42,27 @@ class ConditionalEx
         // }
 
         // Console.WriteLine(isPositive);
+
+        /*3*/
+        // int a = int.Parse(Console.ReadLine());
+        // int b = int.Parse(Console.ReadLine());
+        // int c = int.Parse(Console.ReadLine());
+
+        // if ((a > b) && (a > c))
+        // {
+        //     Console.WriteLine(a);
+        // }
+        // else if ((b > a) && (b > c))
+        // {
+        //     Console.WriteLine(b);
+        // }
+        // else if ((c > a) && (c > b))
+        // {
+        //     Console.WriteLine(c);
+        // }
+        // else 
+        // {
+        //     Console.WriteLine("Inputted numbers are equal");
+        // }
     }
 }
