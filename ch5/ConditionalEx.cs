@@ -64,5 +64,72 @@ class ConditionalEx
         // {
         //     Console.WriteLine("Inputted numbers are equal");
         // }
+
+        /*4*/
+        // int a = int.Parse(Console.ReadLine());
+        // int b = int.Parse(Console.ReadLine());
+        // int c = int.Parse(Console.ReadLine());
+        // int largest = 0;
+        // int middle = 0;
+        // int smallest = 0;
+
+        // if ((a > b) && (a > c))
+        // {
+        //     largest = a;
+
+        //     if (b > c)
+        //     {
+        //         middle = b;
+        //         smallest = c;
+        //     }
+        //     else
+        //     {
+        //         middle = c;
+        //         smallest = b;
+        //     }
+        // }
+        // else if ((b > a) && (b > c))
+        // {
+        //     largest = b;
+
+        //     if (a > c)
+        //     {
+        //         middle = a;
+        //         smallest = c;
+        //     }
+        //     else
+        //     {
+        //         middle = c;
+        //         smallest = a;
+        //     }
+        // }
+        // else if ((c > a) && (c > b))
+        // {
+        //     largest = c;
+        //     if (a > b)
+        //     {
+        //         middle = a;
+        //         smallest = b;
+        //     }
+        //     else
+        //     {
+        //         middle = b;
+        //         smallest = a;
+        //     }
+        // }
+        // else 
+        // {
+        //     Console.WriteLine("Inputted numbers are equal");
+        //     largest = a;
+        //     middle = a;
+        //     smallest = a;
+        // }
+
+        // Console.WriteLine(largest);
+        // Console.WriteLine(middle);
+        // Console.WriteLine(smallest);
+
+        /*5*/
+        
     }
 }
