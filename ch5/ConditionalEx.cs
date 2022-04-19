@@ -42,5 +42,32 @@ class ConditionalEx
         // }
 
         // Console.WriteLine(isPositive);
+        
+        
+        /*3*/
+        int a,b,c,d;
+        a = int.Parse(Console.ReadLine());
+        b = int.Parse(Console.ReadLine());
+        c = int.Parse(Console.ReadLine());
+        
+        d = 0;
+        if (a > b)
+	  {
+	    d = a;
+	  }
+	else
+	  {
+	    d = b;
+	  }
+	  
+	if (d > c)
+	  {
+	    Console.WriteLine(d);
+	  }
+        else 
+	  {
+	    Console.WriteLine(c);
+	  }
+        
     }
 }
