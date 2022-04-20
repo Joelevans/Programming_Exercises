@@ -45,29 +45,72 @@ class ConditionalEx
         
         
         /*3*/
-        int a,b,c,d;
-        a = int.Parse(Console.ReadLine());
-        b = int.Parse(Console.ReadLine());
-        c = int.Parse(Console.ReadLine());
+        //int a,b,c,d;
+        //a = int.Parse(Console.ReadLine());
+        //b = int.Parse(Console.ReadLine());
+        //c = int.Parse(Console.ReadLine());
         
-        d = 0;
-        if (a > b)
-	  {
-	    d = a;
-	  }
-	else
-	  {
-	    d = b;
-	  }
+        //d = 0;
+        //if (a > b)
+	  //{
+	    //d = a;
+	  //}
+	//else
+	  //{
+	    //d = b;
+	  //}
 	  
-	if (d > c)
-	  {
-	    Console.WriteLine(d);
-	  }
-        else 
-	  {
-	    Console.WriteLine(c);
-	  }
+	//if (d > c)
+	  //{
+	    //Console.WriteLine(d);
+	  //}
+        //else 
+	  //{
+	    //Console.WriteLine(c);
+	  //}
+	  
+	  
+	  /*4*/
+	 //sort 3 real numbers in descending order
+	 float a, b, c, smallest;
+	 a = float.Parse(Console.ReadLine());
+	 b = float.Parse(Console.ReadLine());
+	 c = float.Parse(Console.ReadLine());
+	 
+	    
+	 if (a < b && a < c)
+	 {
+	  smallest = a;
+	  a = smallest;
+	 }
+	 else if (b < a && b < c)
+	 {
+	  smallest = b;
+	  b = smallest;
+	 }
+	 else if (c < a && c < b)
+	 {
+	  smallest = c;
+	  c = smallest;
+	 }
+	 
+	 if (b > c)
+	 {
+	    float temp;
+	    temp = b;
+	    b = c;
+	    c = temp;
+	 }
+	 else
+	 {
+	  
+	 }
+	  
+	 
+	 Console.Write(a);
+	 Console.Write(b);
+	 Console.WriteLine(c);
+	 
         
     }
 }
