@@ -147,6 +147,7 @@ class ConditionalEx
 	//mathematical
 	
 	/*7*/
+	/*
 	int previousNumber = 0;
 	int maxNumber = 0;
 	
@@ -164,6 +165,40 @@ class ConditionalEx
 	}
         
         Console.WriteLine(maxNumber);
+        */
+        
+        /*8*/
+        int choice;
+        
+        Console.Write("Write 0 for int, 1 for double, 2 for string");
+        choice = int.Parse(Console.ReadLine());
+        
+        
+        switch(choice)
+        {
+	  case 0:
+	  Console.WriteLine("Enter an integer");
+	  int a = int.Parse(Console.ReadLine());
+	  a+=1;
+	  Console.WriteLine(a);
+	  break;
+	  
+	  case 1:
+	  Console.WriteLine("Enter a double");
+	  double a = double.Parse(Console.ReadLine());
+	  a+=1;
+	  Console.WriteLine(a);
+	  break;
+	  
+	  case 2:
+	  Console.WriteLine("Enter a String");
+	  string str = Console.ReadLine();
+	  str.Add(*);
+	  Console.WriteLine(str);
+	  
+	  default:
+	    Console.WriteLine("Invalid choice");
+        }
 	
     }
 }
