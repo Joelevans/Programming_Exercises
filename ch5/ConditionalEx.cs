@@ -72,40 +72,33 @@ class ConditionalEx
 	  
 	  /*4*/
 	 //sort 3 real numbers in descending order
-	 float a, b, c, smallest;
-	 a = float.Parse(Console.ReadLine());
-	 b = float.Parse(Console.ReadLine());
-	 c = float.Parse(Console.ReadLine());
+	 int a, b, c;
+	 a = int.Parse(Console.ReadLine());
+	 b = int.Parse(Console.ReadLine());
+	 c = int.Parse(Console.ReadLine());
 	 
-	    
-	 if (a < b && a < c)
-	 {
-	  smallest = a;
-	  a = smallest;
-	 }
-	 else if (b < a && b < c)
-	 {
-	  smallest = b;
-	  b = smallest;
-	 }
-	 else if (c < a && c < b)
-	 {
-	  smallest = c;
-	  c = smallest;
-	 }
 	 
-	 if (b > c)
+	 if(a < b)
 	 {
-	    float temp;
-	    temp = b;
-	    b = c;
-	    c = temp;
+	  int temp = a;
+	  a = b;
+	  b = temp;
 	 }
-	 else
+	 else if (b < c)
 	 {
+	  int temp2 = b;
+	  b = c;
+	  c = temp2;
+	 
+	  if(a < b)
+	  {
+	    int temp3 = a;
+	    a = b;
+	    b = temp3;
+	  }
 	  
 	 }
-	  
+	 
 	 
 	 Console.Write(a);
 	 Console.Write(b);
