@@ -107,7 +107,8 @@ class ConditionalEx
 	 */
 	 
 	 /*5*/
-	 
+	
+	/*
         int a = int.Parse(Console.ReadLine());
         
         switch(a)
@@ -139,6 +140,30 @@ class ConditionalEx
 	    Console.WriteLine("Invalid number"); break;
 	 
 	}
+	*/
+	
+	/*6*/
+	
+	//mathematical
+	
+	/*7*/
+	int previousNumber = 0;
+	int maxNumber = 0;
+	
+	for (int i = 0; i < 5; i++)
+	{
+	  Console.WriteLine("Enter a number: ");
+	  int inputNumber = int.Parse(Console.ReadLine());
+	  
+	  if (inputNumber > previousNumber)
+	  {
+	    maxNumber = inputNumber;
+	  }
+	  
+	  previousNumber = inputNumber;
+	}
         
+        Console.WriteLine(maxNumber);
+	
     }
 }
