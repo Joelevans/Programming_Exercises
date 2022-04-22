@@ -211,6 +211,7 @@ class ConditionalEx
 	*/
 	
 	/*10*/
+	/*
 	int score = int.Parse(Console.ReadLine());
 	
 	if (score == 0 || score >= 9 || score < 0)
@@ -236,6 +237,7 @@ class ConditionalEx
 	{
 	  Console.WriteLine("Out of range");
 	}
+	*/
 	  
     }
 }
