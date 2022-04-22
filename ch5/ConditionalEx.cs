@@ -204,5 +204,38 @@ class ConditionalEx
         }
         */
 	
+	/*9*/
+	/*
+	
+	31 comparisons
+	*/
+	
+	/*10*/
+	int score = int.Parse(Console.ReadLine());
+	
+	if (score == 0 || score >= 9 || score < 0)
+	{
+	  Console.WriteLine("Error");
+	}
+	else if (score <=3)
+	{
+	  score *= 10;
+	  Console.WriteLine("Score multiplied by 10 = " + score);
+	}
+	else if (score <=6)
+	{
+	  score*=100;
+	  Console.WriteLine("Score is multiplied by 100 = " + score);
+	}
+	else if (score <= 9)
+	{
+	  score*=1000;
+	  Console.WriteLine("Score is multiplied by 1000 = " + score);
+	}
+	else
+	{
+	  Console.WriteLine("Out of range");
+	}
+	  
     }
 }
