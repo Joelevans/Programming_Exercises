@@ -168,6 +168,7 @@ class ConditionalEx
         */
         
         /*8*/
+        /*
         int choice;
         
         Console.Write("Write 0 for int, 1 for double, 2 for string");
@@ -185,20 +186,23 @@ class ConditionalEx
 	  
 	  case 1:
 	  Console.WriteLine("Enter a double");
-	  double a = double.Parse(Console.ReadLine());
-	  a+=1;
-	  Console.WriteLine(a);
+	  double b = double.Parse(Console.ReadLine());
+	  b+=1.5d;
+	  Console.WriteLine(b);
 	  break;
 	  
 	  case 2:
 	  Console.WriteLine("Enter a String");
 	  string str = Console.ReadLine();
-	  str.Add(*);
+	  str += "*";
 	  Console.WriteLine(str);
+	  break;
 	  
 	  default:
 	    Console.WriteLine("Invalid choice");
+	    break;
         }
+        */
 	
     }
 }
