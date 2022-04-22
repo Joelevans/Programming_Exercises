@@ -1,0 +1,20 @@
+- String manipulation
+- String comparison
+- Extraction of substrings
+- Split a string by separator chars.
+
+Each character has a serial number from the Unicode table.
+
+string is an alias of the System.String class.
+A string is a sequence of characters stored in a certain address in memory.
+A string is an array of characters.
+Values of the type string are stored in the dynamic memory(managed heap)
+Variables of the type string keep a reference to an object in the heap.
+
+Strings are immutable
+After being assigned once, the content of the variable does not change directly.
+If we try to change the value, it will be saved to a new location in the dynamic
+memory and the variable will point to it.
+
+Creating and Initializing a String
+- is a process associated with the allocation of the dynamic memory are (the heap)
