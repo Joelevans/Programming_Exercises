@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch6/LoopsEx/bin/Debug/netcoreapp3.1/LoopsEx
+/home/evans/devel/progex/ch6/LoopsEx/bin/Debug/netcoreapp3.1/LoopsEx.deps.json
+/home/evans/devel/progex/ch6/LoopsEx/bin/Debug/netcoreapp3.1/LoopsEx.runtimeconfig.json
+/home/evans/devel/progex/ch6/LoopsEx/bin/Debug/netcoreapp3.1/LoopsEx.runtimeconfig.dev.json
+/home/evans/devel/progex/ch6/LoopsEx/bin/Debug/netcoreapp3.1/LoopsEx.dll
+/home/evans/devel/progex/ch6/LoopsEx/bin/Debug/netcoreapp3.1/LoopsEx.pdb
+/home/evans/devel/progex/ch6/LoopsEx/obj/Debug/netcoreapp3.1/LoopsEx.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch6/LoopsEx/obj/Debug/netcoreapp3.1/LoopsEx.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch6/LoopsEx/obj/Debug/netcoreapp3.1/LoopsEx.AssemblyInfo.cs
+/home/evans/devel/progex/ch6/LoopsEx/obj/Debug/netcoreapp3.1/LoopsEx.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch6/LoopsEx/obj/Debug/netcoreapp3.1/LoopsEx.dll
+/home/evans/devel/progex/ch6/LoopsEx/obj/Debug/netcoreapp3.1/LoopsEx.pdb
+/home/evans/devel/progex/ch6/LoopsEx/obj/Debug/netcoreapp3.1/LoopsEx.genruntimeconfig.cache
