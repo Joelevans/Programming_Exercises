@@ -42,221 +42,202 @@ class ConditionalEx
         // }
 
         // Console.WriteLine(isPositive);
-
+        
+        
         /*3*/
-        // int a = int.Parse(Console.ReadLine());
-        // int b = int.Parse(Console.ReadLine());
-        // int c = int.Parse(Console.ReadLine());
-
-        // if ((a > b) && (a > c))
-        // {
-        //     Console.WriteLine(a);
-        // }
-        // else if ((b > a) && (b > c))
-        // {
-        //     Console.WriteLine(b);
-        // }
-        // else if ((c > a) && (c > b))
-        // {
-        //     Console.WriteLine(c);
-        // }
-        // else 
-        // {
-        //     Console.WriteLine("Inputted numbers are equal");
-        // }
-
-        /*4*/
-        // int a = int.Parse(Console.ReadLine());
-        // int b = int.Parse(Console.ReadLine());
-        // int c = int.Parse(Console.ReadLine());
-        // int largest = 0;
-        // int middle = 0;
-        // int smallest = 0;
-
-        // if ((a > b) && (a > c))
-        // {
-        //     largest = a;
-
-        //     if (b > c)
-        //     {
-        //         middle = b;
-        //         smallest = c;
-        //     }
-        //     else
-        //     {
-        //         middle = c;
-        //         smallest = b;
-        //     }
-        // }
-        // else if ((b > a) && (b > c))
-        // {
-        //     largest = b;
-
-        //     if (a > c)
-        //     {
-        //         middle = a;
-        //         smallest = c;
-        //     }
-        //     else
-        //     {
-        //         middle = c;
-        //         smallest = a;
-        //     }
-        // }
-        // else if ((c > a) && (c > b))
-        // {
-        //     largest = c;
-        //     if (a > b)
-        //     {
-        //         middle = a;
-        //         smallest = b;
-        //     }
-        //     else
-        //     {
-        //         middle = b;
-        //         smallest = a;
-        //     }
-        // }
-        // else 
-        // {
-        //     Console.WriteLine("Inputted numbers are equal");
-        //     largest = a;
-        //     middle = a;
-        //     smallest = a;
-        // }
-
-        // Console.WriteLine(largest);
-        // Console.WriteLine(middle);
-        // Console.WriteLine(smallest);
-
-        /*5*/
-        // Console.WriteLine("Input digit [0 -9] :");
-        // int digit = int.Parse(Console.ReadLine());
-
-        // while ((digit < 0) || (digit > 9))
-        // {
-        //     Console.WriteLine("Please Input digit [0 -9] :");
-        //     digit = int.Parse(Console.ReadLine());
-        // }
-
-        // switch (digit)
-        // {
-        //     case 0:
-        //     Console.WriteLine("Zero");
-        //     break;
-
-        //     case 1:
-        //     Console.WriteLine("One");
-        //     break;
-
-        //     case 2:
-        //     Console.WriteLine("Two");
-        //     break;
-
-        //     case 3:
-        //     Console.WriteLine("Three");
-        //     break;
-            
-        //     case 4:
-        //     Console.WriteLine("Four");
-        //     break;
-            
-        //     case 5:
-        //     Console.WriteLine("Five");
-        //     break;
-
-        //     case 6:
-        //     Console.WriteLine("Six");
-        //     break;
-
-        //     case 7:
-        //     Console.WriteLine("Seven");
-        //     break;
-
-        //     case 8:
-        //     Console.WriteLine("Eight");
-        //     break;
-
-        //     case 9:
-        //     Console.WriteLine("Nine");
-        //     break;
-
-        //     default:
-        //     Console.Write("out of range");
-        //     break;
-        // }
-
-        /*6*/
-        //out of range
-
-        /*7*/
-        // int num = 0;
-        // int largest = 0;
-
-        // for (int i = 0; i < 5; i++)
-        // {
-        //     Console.WriteLine("Enter a number:");
-        //     num = int.Parse(Console.ReadLine());
-        //     if(num > largest)
-        //         largest = num;
-        // }
-
-        // Console.WriteLine("{0} is the largest", largest);
-
+        //int a,b,c,d;
+        //a = int.Parse(Console.ReadLine());
+        //b = int.Parse(Console.ReadLine());
+        //c = int.Parse(Console.ReadLine());
+        
+        //d = 0;
+        //if (a > b)
+	  //{
+	    //d = a;
+	  //}
+	//else
+	  //{
+	    //d = b;
+	  //}
+	  
+	//if (d > c)
+	  //{
+	    //Console.WriteLine(d);
+	  //}
+        //else 
+	  //{
+	    //Console.WriteLine(c);
+	  //}
+	  
+	  
+	  /*4*/
+	 //sort 3 real numbers in descending order
+	 /*
+	 int a, b, c;
+	 a = int.Parse(Console.ReadLine());
+	 b = int.Parse(Console.ReadLine());
+	 c = int.Parse(Console.ReadLine());
+	 
+	 
+	 if(a < b)
+	 {
+	  int temp = a;
+	  a = b;
+	  b = temp;
+	 }
+	 else if (b < c)
+	 {
+	  int temp2 = b;
+	  b = c;
+	  c = temp2;
+	 
+	  if(a < b)
+	  {
+	    int temp3 = a;
+	    a = b;
+	    b = temp3;
+	  }
+	  
+	 }
+	 
+	 
+	 Console.Write(a);
+	 Console.Write(b);
+	 Console.WriteLine(c);
+	 */
+	 
+	 /*5*/
+	
+	/*
+        int a = int.Parse(Console.ReadLine());
+        
+        switch(a)
+	{
+	   case 0:
+	    Console.WriteLine("Zero"); break;
+	   case 1:
+	    Console.WriteLine("One"); break;
+	   case 2:
+	    Console.WriteLine("Two"); break;
+	   case 3:
+	    Console.WriteLine("Three"); break;
+	   case 4:
+	    Console.WriteLine("Four"); break;
+	   case 5:
+	    Console.WriteLine("Five"); break;
+	   case 6:
+	    Console.WriteLine("Six"); break;
+	   case 7:
+	    Console.WriteLine("Seven"); break;
+	   case 8:
+	    Console.WriteLine("Eight"); break;
+	   case 9:
+	    Console.WriteLine("Nine"); break;
+	   case 10:
+	      Console.WriteLine("Ten"); break;
+	    
+	   default:
+	    Console.WriteLine("Invalid number"); break;
+	 
+	}
+	*/
+	
+	/*6*/
+	
+	//mathematical
+	
+	/*7*/
+	/*
+	int previousNumber = 0;
+	int maxNumber = 0;
+	
+	for (int i = 0; i < 5; i++)
+	{
+	  Console.WriteLine("Enter a number: ");
+	  int inputNumber = int.Parse(Console.ReadLine());
+	  
+	  if (inputNumber > previousNumber)
+	  {
+	    maxNumber = inputNumber;
+	  }
+	  
+	  previousNumber = inputNumber;
+	}
+        
+        Console.WriteLine(maxNumber);
+        */
+        
         /*8*/
-        // int number = 0;
-        // string name = "";
-        // double realNumber = 0.0;
-
-        // Console.WriteLine("Choose an input: ");
-        // Console.WriteLine("0: int");
-        // Console.WriteLine("1: double");
-        // Console.WriteLine("2: string");
-
-
-        // string str = Console.ReadLine();
-        // if (str == "0")
-        // {
-        //     Console.Write("Enter an int: ");
-        //     number = int.Parse(Console.ReadLine());
-        // }
-        // else if (str == "1")
-        // {
-        //     Console.Write("Enter a double: ");
-        //     realNumber = double.Parse(Console.ReadLine());
-        // }
-        // else if (str == "2")
-        // {
-        //     Console.WriteLine("Enter your name: ");
-        //     name = Console.ReadLine();
-        // }
-        // else
-        // {
-        //     Console.WriteLine("Selection out of range");
-        // }
-
-        // switch (int.Parse(str))
-        // {
-        //     case 0:
-        //         number++;
-        //         Console.WriteLine(number);
-        //     break;
-        //     case 1:
-        //         realNumber++;
-        //         Console.WriteLine(realNumber);
-        //     break;
-        //     case 2:
-        //         name = name + "*";
-        //         Console.WriteLine(name);
-        //     break;
-        //     default:
-        //         Console.WriteLine("out of range");
-        //         break;
-            
-        // }
-
-        /*9 - 11*/
-        //Repetitive
-
+        /*
+        int choice;
+        
+        Console.Write("Write 0 for int, 1 for double, 2 for string");
+        choice = int.Parse(Console.ReadLine());
+        
+        
+        switch(choice)
+        {
+	  case 0:
+	  Console.WriteLine("Enter an integer");
+	  int a = int.Parse(Console.ReadLine());
+	  a+=1;
+	  Console.WriteLine(a);
+	  break;
+	  
+	  case 1:
+	  Console.WriteLine("Enter a double");
+	  double b = double.Parse(Console.ReadLine());
+	  b+=1.5d;
+	  Console.WriteLine(b);
+	  break;
+	  
+	  case 2:
+	  Console.WriteLine("Enter a String");
+	  string str = Console.ReadLine();
+	  str += "*";
+	  Console.WriteLine(str);
+	  break;
+	  
+	  default:
+	    Console.WriteLine("Invalid choice");
+	    break;
+        }
+        */
+	
+	/*9*/
+	/*
+	
+	31 comparisons
+	*/
+	
+	/*10*/
+	/*
+	int score = int.Parse(Console.ReadLine());
+	
+	if (score == 0 || score >= 9 || score < 0)
+	{
+	  Console.WriteLine("Error");
+	}
+	else if (score <=3)
+	{
+	  score *= 10;
+	  Console.WriteLine("Score multiplied by 10 = " + score);
+	}
+	else if (score <=6)
+	{
+	  score*=100;
+	  Console.WriteLine("Score is multiplied by 100 = " + score);
+	}
+	else if (score <= 9)
+	{
+	  score*=1000;
+	  Console.WriteLine("Score is multiplied by 1000 = " + score);
+	}
+	else
+	{
+	  Console.WriteLine("Out of range");
+	}
+	*/
+	  
     }
 }

@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch5/obj/Debug/netcoreapp3.1/ConditionalEx.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch5/obj/Debug/netcoreapp3.1/ConditionalEx.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch5/obj/Debug/netcoreapp3.1/ConditionalEx.AssemblyInfo.cs
+/home/evans/devel/progex/ch5/obj/Debug/netcoreapp3.1/ConditionalEx.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch5/bin/Debug/netcoreapp3.1/ConditionalEx
+/home/evans/devel/progex/ch5/bin/Debug/netcoreapp3.1/ConditionalEx.deps.json
+/home/evans/devel/progex/ch5/bin/Debug/netcoreapp3.1/ConditionalEx.runtimeconfig.json
+/home/evans/devel/progex/ch5/bin/Debug/netcoreapp3.1/ConditionalEx.runtimeconfig.dev.json
+/home/evans/devel/progex/ch5/bin/Debug/netcoreapp3.1/ConditionalEx.dll
+/home/evans/devel/progex/ch5/bin/Debug/netcoreapp3.1/ConditionalEx.pdb
+/home/evans/devel/progex/ch5/obj/Debug/netcoreapp3.1/ConditionalEx.dll
+/home/evans/devel/progex/ch5/obj/Debug/netcoreapp3.1/ConditionalEx.pdb
+/home/evans/devel/progex/ch5/obj/Debug/netcoreapp3.1/ConditionalEx.genruntimeconfig.cache
