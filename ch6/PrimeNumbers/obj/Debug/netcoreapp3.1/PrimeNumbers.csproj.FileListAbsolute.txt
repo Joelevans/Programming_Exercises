@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch6/PrimeNumbers/bin/Debug/netcoreapp3.1/PrimeNumbers
+/home/evans/devel/progex/ch6/PrimeNumbers/bin/Debug/netcoreapp3.1/PrimeNumbers.deps.json
+/home/evans/devel/progex/ch6/PrimeNumbers/bin/Debug/netcoreapp3.1/PrimeNumbers.runtimeconfig.json
+/home/evans/devel/progex/ch6/PrimeNumbers/bin/Debug/netcoreapp3.1/PrimeNumbers.runtimeconfig.dev.json
+/home/evans/devel/progex/ch6/PrimeNumbers/bin/Debug/netcoreapp3.1/PrimeNumbers.dll
+/home/evans/devel/progex/ch6/PrimeNumbers/bin/Debug/netcoreapp3.1/PrimeNumbers.pdb
+/home/evans/devel/progex/ch6/PrimeNumbers/obj/Debug/netcoreapp3.1/PrimeNumbers.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch6/PrimeNumbers/obj/Debug/netcoreapp3.1/PrimeNumbers.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch6/PrimeNumbers/obj/Debug/netcoreapp3.1/PrimeNumbers.AssemblyInfo.cs
+/home/evans/devel/progex/ch6/PrimeNumbers/obj/Debug/netcoreapp3.1/PrimeNumbers.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch6/PrimeNumbers/obj/Debug/netcoreapp3.1/PrimeNumbers.dll
+/home/evans/devel/progex/ch6/PrimeNumbers/obj/Debug/netcoreapp3.1/PrimeNumbers.pdb
+/home/evans/devel/progex/ch6/PrimeNumbers/obj/Debug/netcoreapp3.1/PrimeNumbers.genruntimeconfig.cache
