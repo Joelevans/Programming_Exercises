@@ -1,5 +1,3 @@
-
---Senior Engineering--
 Functional programming,
 LINQ,
 Ternary Operators,
@@ -8,3 +6,6 @@ Reflection
 
 Visual Studio shortcuts
 SOLID Principles
+Unit of work pattern
+Repository pattern
+Entity Framework
