@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch6/Factorial/obj/Debug/netcoreapp3.1/Factorial.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch6/Factorial/obj/Debug/netcoreapp3.1/Factorial.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch6/Factorial/obj/Debug/netcoreapp3.1/Factorial.AssemblyInfo.cs
+/home/evans/devel/progex/ch6/Factorial/obj/Debug/netcoreapp3.1/Factorial.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch6/Factorial/bin/Debug/netcoreapp3.1/Factorial
+/home/evans/devel/progex/ch6/Factorial/bin/Debug/netcoreapp3.1/Factorial.deps.json
+/home/evans/devel/progex/ch6/Factorial/bin/Debug/netcoreapp3.1/Factorial.runtimeconfig.json
+/home/evans/devel/progex/ch6/Factorial/bin/Debug/netcoreapp3.1/Factorial.runtimeconfig.dev.json
+/home/evans/devel/progex/ch6/Factorial/bin/Debug/netcoreapp3.1/Factorial.dll
+/home/evans/devel/progex/ch6/Factorial/bin/Debug/netcoreapp3.1/Factorial.pdb
+/home/evans/devel/progex/ch6/Factorial/obj/Debug/netcoreapp3.1/Factorial.dll
+/home/evans/devel/progex/ch6/Factorial/obj/Debug/netcoreapp3.1/Factorial.pdb
+/home/evans/devel/progex/ch6/Factorial/obj/Debug/netcoreapp3.1/Factorial.genruntimeconfig.cache
