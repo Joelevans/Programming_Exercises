@@ -5,5 +5,7 @@
 While Loops  
 Do-While Loops
 For Loops  
+- Continue operator
+
 Foreach Loops  
 Nested Loops
