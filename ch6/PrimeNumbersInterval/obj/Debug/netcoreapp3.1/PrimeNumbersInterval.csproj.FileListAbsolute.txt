@@ -1,0 +1,13 @@
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\obj\Debug\netcoreapp3.1\PrimeNumbersInterval.csprojAssemblyReference.cache
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\obj\Debug\netcoreapp3.1\PrimeNumbersInterval.AssemblyInfoInputs.cache
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\obj\Debug\netcoreapp3.1\PrimeNumbersInterval.AssemblyInfo.cs
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\obj\Debug\netcoreapp3.1\PrimeNumbersInterval.csproj.CoreCompileInputs.cache
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\bin\Debug\netcoreapp3.1\PrimeNumbersInterval.exe
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\bin\Debug\netcoreapp3.1\PrimeNumbersInterval.deps.json
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\bin\Debug\netcoreapp3.1\PrimeNumbersInterval.runtimeconfig.json
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\bin\Debug\netcoreapp3.1\PrimeNumbersInterval.runtimeconfig.dev.json
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\bin\Debug\netcoreapp3.1\PrimeNumbersInterval.dll
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\bin\Debug\netcoreapp3.1\PrimeNumbersInterval.pdb
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\obj\Debug\netcoreapp3.1\PrimeNumbersInterval.dll
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\obj\Debug\netcoreapp3.1\PrimeNumbersInterval.pdb
+C:\Users\ochol\source\repos\console\prog_ex\ch6\PrimeNumbersInterval\obj\Debug\netcoreapp3.1\PrimeNumbersInterval.genruntimeconfig.cache
