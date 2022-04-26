@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch6/PrintTriangle/bin/Debug/netcoreapp3.1/PrintTriangle
+/home/evans/devel/progex/ch6/PrintTriangle/bin/Debug/netcoreapp3.1/PrintTriangle.deps.json
+/home/evans/devel/progex/ch6/PrintTriangle/bin/Debug/netcoreapp3.1/PrintTriangle.runtimeconfig.json
+/home/evans/devel/progex/ch6/PrintTriangle/bin/Debug/netcoreapp3.1/PrintTriangle.runtimeconfig.dev.json
+/home/evans/devel/progex/ch6/PrintTriangle/bin/Debug/netcoreapp3.1/PrintTriangle.dll
+/home/evans/devel/progex/ch6/PrintTriangle/bin/Debug/netcoreapp3.1/PrintTriangle.pdb
+/home/evans/devel/progex/ch6/PrintTriangle/obj/Debug/netcoreapp3.1/PrintTriangle.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch6/PrintTriangle/obj/Debug/netcoreapp3.1/PrintTriangle.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch6/PrintTriangle/obj/Debug/netcoreapp3.1/PrintTriangle.AssemblyInfo.cs
+/home/evans/devel/progex/ch6/PrintTriangle/obj/Debug/netcoreapp3.1/PrintTriangle.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch6/PrintTriangle/obj/Debug/netcoreapp3.1/PrintTriangle.dll
+/home/evans/devel/progex/ch6/PrintTriangle/obj/Debug/netcoreapp3.1/PrintTriangle.pdb
+/home/evans/devel/progex/ch6/PrintTriangle/obj/Debug/netcoreapp3.1/PrintTriangle.genruntimeconfig.cache
