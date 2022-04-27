@@ -16,7 +16,7 @@ namespace LoopsEx
 	      Console.WriteLine(i);
             }
             */
-            
+
             /*2*/
             /*
             Console.WriteLine("Enter a range");
@@ -37,7 +37,7 @@ namespace LoopsEx
 	      }
             }
             */
-            
+
             /*3*/
             /*
             Console.WriteLine("Enter a series of positive integers: ");
@@ -63,54 +63,81 @@ namespace LoopsEx
             
             Console.WriteLine($"smallest is : {smallest} and largest is : {largest}");
             */
-            
+
             /*4*/
-            for(int suit = 1; suit <= 4; suit++)
+            /*
+            for (int suit = 1; suit <= 4; suit++)
             {
-            
-             switch(suit)
-	      {
-		case 1:
-		Console.Write("club:\t\t");
-		break;
-		
-		case 2:
-		Console.Write("diamond:\t");
-		break;
-		
-		case 3:
-		Console.Write("heart:\t\t");
-		break;
-		
-		case 4:
-		Console.Write("spades:\t\t");
-		break;
-		
-		default:
-		Console.Write("invalid");
-		break;
-	      }
-            
-	      for(int card = 2; card <= 14; card++)
-	      {
-		switch(card)
-		{
-		  case 11:
-		    continue; break;
-		  case 12:
-		    Console.Write("Q"); break;
-		  case 13:
-		    Console.Write("K"); break;
-		  case 14:
-		    Console.Write("A"); break;
-		  default:
-		    Console.Write(card); break;
-		}
-	      }
-	      
-	      Console.WriteLine();
-	      
+
+                switch (suit)
+                {
+                    case 1:
+                        Console.Write("club:\t\t");
+                        break;
+
+                    case 2:
+                        Console.Write("diamond:\t");
+                        break;
+
+                    case 3:
+                        Console.Write("heart:\t\t");
+                        break;
+
+                    case 4:
+                        Console.Write("spades:\t\t");
+                        break;
+
+                    default:
+                        Console.Write("invalid");
+                        break;
+                }
+
+                for (int card = 2; card <= 14; card++)
+                {
+                    switch (card)
+                    {
+                        case 11:
+                            continue;
+                        case 12:
+                            Console.Write("Q"); break;
+                        case 13:
+                            Console.Write("K"); break;
+                        case 14:
+                            Console.Write("A"); break;
+                        default:
+                            Console.Write(card); break;
+                    }
+                }
+
+                Console.WriteLine();
+
+            }*/
+
+            /*5*/
+            /*
+            Console.Write("Input number N: ");
+            int input = int.Parse(Console.ReadLine());
+
+            int previousNumber = 0;
+            int currentNumber = 1;
+            int sum = 1;
+            int nextNumber = 0;
+
+            Console.Write($"{previousNumber} {currentNumber} ");
+            for (int i = 0; i < input; i++)
+            {
+                nextNumber = previousNumber + currentNumber;
+                sum += nextNumber;
+                Console.Write(nextNumber + " ");
+
+                previousNumber = currentNumber;
+                currentNumber = nextNumber;
             }
+
+            Console.WriteLine("Sum is :" + sum);
+			*/
+
         }
+
     }
 }
