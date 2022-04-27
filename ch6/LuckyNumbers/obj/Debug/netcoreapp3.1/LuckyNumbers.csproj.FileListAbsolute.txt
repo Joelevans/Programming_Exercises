@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch6/LuckyNumbers/bin/Debug/netcoreapp3.1/LuckyNumbers
+/home/evans/devel/progex/ch6/LuckyNumbers/bin/Debug/netcoreapp3.1/LuckyNumbers.deps.json
+/home/evans/devel/progex/ch6/LuckyNumbers/bin/Debug/netcoreapp3.1/LuckyNumbers.runtimeconfig.json
+/home/evans/devel/progex/ch6/LuckyNumbers/bin/Debug/netcoreapp3.1/LuckyNumbers.runtimeconfig.dev.json
+/home/evans/devel/progex/ch6/LuckyNumbers/bin/Debug/netcoreapp3.1/LuckyNumbers.dll
+/home/evans/devel/progex/ch6/LuckyNumbers/bin/Debug/netcoreapp3.1/LuckyNumbers.pdb
+/home/evans/devel/progex/ch6/LuckyNumbers/obj/Debug/netcoreapp3.1/LuckyNumbers.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch6/LuckyNumbers/obj/Debug/netcoreapp3.1/LuckyNumbers.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch6/LuckyNumbers/obj/Debug/netcoreapp3.1/LuckyNumbers.AssemblyInfo.cs
+/home/evans/devel/progex/ch6/LuckyNumbers/obj/Debug/netcoreapp3.1/LuckyNumbers.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch6/LuckyNumbers/obj/Debug/netcoreapp3.1/LuckyNumbers.dll
+/home/evans/devel/progex/ch6/LuckyNumbers/obj/Debug/netcoreapp3.1/LuckyNumbers.pdb
+/home/evans/devel/progex/ch6/LuckyNumbers/obj/Debug/netcoreapp3.1/LuckyNumbers.genruntimeconfig.cache
