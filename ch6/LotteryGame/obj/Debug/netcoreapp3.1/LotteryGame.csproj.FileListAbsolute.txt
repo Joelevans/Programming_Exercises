@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch6/LotteryGame/obj/Debug/netcoreapp3.1/LotteryGame.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch6/LotteryGame/obj/Debug/netcoreapp3.1/LotteryGame.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch6/LotteryGame/obj/Debug/netcoreapp3.1/LotteryGame.AssemblyInfo.cs
+/home/evans/devel/progex/ch6/LotteryGame/obj/Debug/netcoreapp3.1/LotteryGame.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch6/LotteryGame/bin/Debug/netcoreapp3.1/LotteryGame
+/home/evans/devel/progex/ch6/LotteryGame/bin/Debug/netcoreapp3.1/LotteryGame.deps.json
+/home/evans/devel/progex/ch6/LotteryGame/bin/Debug/netcoreapp3.1/LotteryGame.runtimeconfig.json
+/home/evans/devel/progex/ch6/LotteryGame/bin/Debug/netcoreapp3.1/LotteryGame.runtimeconfig.dev.json
+/home/evans/devel/progex/ch6/LotteryGame/bin/Debug/netcoreapp3.1/LotteryGame.dll
+/home/evans/devel/progex/ch6/LotteryGame/bin/Debug/netcoreapp3.1/LotteryGame.pdb
+/home/evans/devel/progex/ch6/LotteryGame/obj/Debug/netcoreapp3.1/LotteryGame.dll
+/home/evans/devel/progex/ch6/LotteryGame/obj/Debug/netcoreapp3.1/LotteryGame.pdb
+/home/evans/devel/progex/ch6/LotteryGame/obj/Debug/netcoreapp3.1/LotteryGame.genruntimeconfig.cache
