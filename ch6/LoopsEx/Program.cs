@@ -29,11 +29,11 @@ namespace LoopsEx
 	      
 	      if (!divisibleBy3 && !divisibleBy7)
 	      {
-		Console.WriteLine(i);
+		    Console.WriteLine(i);
 	      }
 	      else
 	      {
-		Console.WriteLine("divisible by either 3 or 7");
+		    Console.WriteLine("divisible by either 3 or 7");
 	      }
             }
             */
@@ -52,11 +52,11 @@ namespace LoopsEx
 	      
 	      if (input > largest)
 	      {
-		largest = input;
+		    largest = input;
 	      }
 	      else
 	      {
-		smallest = input;
+		    smallest = input;
 	      }
 	      
             }
@@ -137,6 +137,27 @@ namespace LoopsEx
             Console.WriteLine("Sum is :" + sum);
 			*/
 
+            /*6, 7, 8, 9*/
+            //tbc
+
+            
+            /*10*/
+            /*
+            Console.WriteLine("Enter a number");
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= n; i++)
+            {
+               for (int j = i; j < i + n; j++)
+               {
+                   Console.Write(j + " ");
+               }
+                Console.WriteLine();
+            }
+            */
+
+            /*11*/
+            
         }
 
     }
