@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch7/ReadingMatrices/bin/Debug/netcoreapp3.1/ReadingMatrices
+/home/evans/devel/progex/ch7/ReadingMatrices/bin/Debug/netcoreapp3.1/ReadingMatrices.deps.json
+/home/evans/devel/progex/ch7/ReadingMatrices/bin/Debug/netcoreapp3.1/ReadingMatrices.runtimeconfig.json
+/home/evans/devel/progex/ch7/ReadingMatrices/bin/Debug/netcoreapp3.1/ReadingMatrices.runtimeconfig.dev.json
+/home/evans/devel/progex/ch7/ReadingMatrices/bin/Debug/netcoreapp3.1/ReadingMatrices.dll
+/home/evans/devel/progex/ch7/ReadingMatrices/bin/Debug/netcoreapp3.1/ReadingMatrices.pdb
+/home/evans/devel/progex/ch7/ReadingMatrices/obj/Debug/netcoreapp3.1/ReadingMatrices.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch7/ReadingMatrices/obj/Debug/netcoreapp3.1/ReadingMatrices.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch7/ReadingMatrices/obj/Debug/netcoreapp3.1/ReadingMatrices.AssemblyInfo.cs
+/home/evans/devel/progex/ch7/ReadingMatrices/obj/Debug/netcoreapp3.1/ReadingMatrices.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch7/ReadingMatrices/obj/Debug/netcoreapp3.1/ReadingMatrices.dll
+/home/evans/devel/progex/ch7/ReadingMatrices/obj/Debug/netcoreapp3.1/ReadingMatrices.pdb
+/home/evans/devel/progex/ch7/ReadingMatrices/obj/Debug/netcoreapp3.1/ReadingMatrices.genruntimeconfig.cache
