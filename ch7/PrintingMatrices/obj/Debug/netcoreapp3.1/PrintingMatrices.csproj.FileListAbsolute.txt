@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch7/PrintingMatrices/obj/Debug/netcoreapp3.1/PrintingMatrices.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch7/PrintingMatrices/obj/Debug/netcoreapp3.1/PrintingMatrices.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch7/PrintingMatrices/obj/Debug/netcoreapp3.1/PrintingMatrices.AssemblyInfo.cs
+/home/evans/devel/progex/ch7/PrintingMatrices/obj/Debug/netcoreapp3.1/PrintingMatrices.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch7/PrintingMatrices/bin/Debug/netcoreapp3.1/PrintingMatrices
+/home/evans/devel/progex/ch7/PrintingMatrices/bin/Debug/netcoreapp3.1/PrintingMatrices.deps.json
+/home/evans/devel/progex/ch7/PrintingMatrices/bin/Debug/netcoreapp3.1/PrintingMatrices.runtimeconfig.json
+/home/evans/devel/progex/ch7/PrintingMatrices/bin/Debug/netcoreapp3.1/PrintingMatrices.runtimeconfig.dev.json
+/home/evans/devel/progex/ch7/PrintingMatrices/bin/Debug/netcoreapp3.1/PrintingMatrices.dll
+/home/evans/devel/progex/ch7/PrintingMatrices/bin/Debug/netcoreapp3.1/PrintingMatrices.pdb
+/home/evans/devel/progex/ch7/PrintingMatrices/obj/Debug/netcoreapp3.1/PrintingMatrices.dll
+/home/evans/devel/progex/ch7/PrintingMatrices/obj/Debug/netcoreapp3.1/PrintingMatrices.pdb
+/home/evans/devel/progex/ch7/PrintingMatrices/obj/Debug/netcoreapp3.1/PrintingMatrices.genruntimeconfig.cache
