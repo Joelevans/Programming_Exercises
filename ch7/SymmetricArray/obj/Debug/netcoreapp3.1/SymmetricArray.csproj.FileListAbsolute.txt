@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch7/SymmetricArray/bin/Debug/netcoreapp3.1/SymmetricArray
+/home/evans/devel/progex/ch7/SymmetricArray/bin/Debug/netcoreapp3.1/SymmetricArray.deps.json
+/home/evans/devel/progex/ch7/SymmetricArray/bin/Debug/netcoreapp3.1/SymmetricArray.runtimeconfig.json
+/home/evans/devel/progex/ch7/SymmetricArray/bin/Debug/netcoreapp3.1/SymmetricArray.runtimeconfig.dev.json
+/home/evans/devel/progex/ch7/SymmetricArray/bin/Debug/netcoreapp3.1/SymmetricArray.dll
+/home/evans/devel/progex/ch7/SymmetricArray/bin/Debug/netcoreapp3.1/SymmetricArray.pdb
+/home/evans/devel/progex/ch7/SymmetricArray/obj/Debug/netcoreapp3.1/SymmetricArray.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch7/SymmetricArray/obj/Debug/netcoreapp3.1/SymmetricArray.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch7/SymmetricArray/obj/Debug/netcoreapp3.1/SymmetricArray.AssemblyInfo.cs
+/home/evans/devel/progex/ch7/SymmetricArray/obj/Debug/netcoreapp3.1/SymmetricArray.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch7/SymmetricArray/obj/Debug/netcoreapp3.1/SymmetricArray.dll
+/home/evans/devel/progex/ch7/SymmetricArray/obj/Debug/netcoreapp3.1/SymmetricArray.pdb
+/home/evans/devel/progex/ch7/SymmetricArray/obj/Debug/netcoreapp3.1/SymmetricArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch7/ReverseAnArray/obj/Debug/netcoreapp3.1/ReverseAnArray.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch7/ReverseAnArray/obj/Debug/netcoreapp3.1/ReverseAnArray.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch7/ReverseAnArray/obj/Debug/netcoreapp3.1/ReverseAnArray.AssemblyInfo.cs
+/home/evans/devel/progex/ch7/ReverseAnArray/obj/Debug/netcoreapp3.1/ReverseAnArray.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch7/ReverseAnArray/bin/Debug/netcoreapp3.1/ReverseAnArray
+/home/evans/devel/progex/ch7/ReverseAnArray/bin/Debug/netcoreapp3.1/ReverseAnArray.deps.json
+/home/evans/devel/progex/ch7/ReverseAnArray/bin/Debug/netcoreapp3.1/ReverseAnArray.runtimeconfig.json
+/home/evans/devel/progex/ch7/ReverseAnArray/bin/Debug/netcoreapp3.1/ReverseAnArray.runtimeconfig.dev.json
+/home/evans/devel/progex/ch7/ReverseAnArray/bin/Debug/netcoreapp3.1/ReverseAnArray.dll
+/home/evans/devel/progex/ch7/ReverseAnArray/bin/Debug/netcoreapp3.1/ReverseAnArray.pdb
+/home/evans/devel/progex/ch7/ReverseAnArray/obj/Debug/netcoreapp3.1/ReverseAnArray.dll
+/home/evans/devel/progex/ch7/ReverseAnArray/obj/Debug/netcoreapp3.1/ReverseAnArray.pdb
+/home/evans/devel/progex/ch7/ReverseAnArray/obj/Debug/netcoreapp3.1/ReverseAnArray.genruntimeconfig.cache
