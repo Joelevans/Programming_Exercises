@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch7/MaxPlatform/obj/Debug/netcoreapp3.1/MaxPlatform.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch7/MaxPlatform/obj/Debug/netcoreapp3.1/MaxPlatform.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch7/MaxPlatform/obj/Debug/netcoreapp3.1/MaxPlatform.AssemblyInfo.cs
+/home/evans/devel/progex/ch7/MaxPlatform/obj/Debug/netcoreapp3.1/MaxPlatform.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch7/MaxPlatform/bin/Debug/netcoreapp3.1/MaxPlatform
+/home/evans/devel/progex/ch7/MaxPlatform/bin/Debug/netcoreapp3.1/MaxPlatform.deps.json
+/home/evans/devel/progex/ch7/MaxPlatform/bin/Debug/netcoreapp3.1/MaxPlatform.runtimeconfig.json
+/home/evans/devel/progex/ch7/MaxPlatform/bin/Debug/netcoreapp3.1/MaxPlatform.runtimeconfig.dev.json
+/home/evans/devel/progex/ch7/MaxPlatform/bin/Debug/netcoreapp3.1/MaxPlatform.dll
+/home/evans/devel/progex/ch7/MaxPlatform/bin/Debug/netcoreapp3.1/MaxPlatform.pdb
+/home/evans/devel/progex/ch7/MaxPlatform/obj/Debug/netcoreapp3.1/MaxPlatform.dll
+/home/evans/devel/progex/ch7/MaxPlatform/obj/Debug/netcoreapp3.1/MaxPlatform.pdb
+/home/evans/devel/progex/ch7/MaxPlatform/obj/Debug/netcoreapp3.1/MaxPlatform.genruntimeconfig.cache
