@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ch7/ArrayOfArrays/bin/Debug/netcoreapp3.1/ArrayOfArrays
+/home/evans/devel/progex/ch7/ArrayOfArrays/bin/Debug/netcoreapp3.1/ArrayOfArrays.deps.json
+/home/evans/devel/progex/ch7/ArrayOfArrays/bin/Debug/netcoreapp3.1/ArrayOfArrays.runtimeconfig.json
+/home/evans/devel/progex/ch7/ArrayOfArrays/bin/Debug/netcoreapp3.1/ArrayOfArrays.runtimeconfig.dev.json
+/home/evans/devel/progex/ch7/ArrayOfArrays/bin/Debug/netcoreapp3.1/ArrayOfArrays.dll
+/home/evans/devel/progex/ch7/ArrayOfArrays/bin/Debug/netcoreapp3.1/ArrayOfArrays.pdb
+/home/evans/devel/progex/ch7/ArrayOfArrays/obj/Debug/netcoreapp3.1/ArrayOfArrays.csprojAssemblyReference.cache
+/home/evans/devel/progex/ch7/ArrayOfArrays/obj/Debug/netcoreapp3.1/ArrayOfArrays.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ch7/ArrayOfArrays/obj/Debug/netcoreapp3.1/ArrayOfArrays.AssemblyInfo.cs
+/home/evans/devel/progex/ch7/ArrayOfArrays/obj/Debug/netcoreapp3.1/ArrayOfArrays.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ch7/ArrayOfArrays/obj/Debug/netcoreapp3.1/ArrayOfArrays.dll
+/home/evans/devel/progex/ch7/ArrayOfArrays/obj/Debug/netcoreapp3.1/ArrayOfArrays.pdb
+/home/evans/devel/progex/ch7/ArrayOfArrays/obj/Debug/netcoreapp3.1/ArrayOfArrays.genruntimeconfig.cache
