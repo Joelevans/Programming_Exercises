@@ -1,0 +1,13 @@
+/home/evans/devel/progex/builderTriangle/bin/Debug/netcoreapp3.1/builderTriangle
+/home/evans/devel/progex/builderTriangle/bin/Debug/netcoreapp3.1/builderTriangle.deps.json
+/home/evans/devel/progex/builderTriangle/bin/Debug/netcoreapp3.1/builderTriangle.runtimeconfig.json
+/home/evans/devel/progex/builderTriangle/bin/Debug/netcoreapp3.1/builderTriangle.runtimeconfig.dev.json
+/home/evans/devel/progex/builderTriangle/bin/Debug/netcoreapp3.1/builderTriangle.dll
+/home/evans/devel/progex/builderTriangle/bin/Debug/netcoreapp3.1/builderTriangle.pdb
+/home/evans/devel/progex/builderTriangle/obj/Debug/netcoreapp3.1/builderTriangle.csprojAssemblyReference.cache
+/home/evans/devel/progex/builderTriangle/obj/Debug/netcoreapp3.1/builderTriangle.AssemblyInfoInputs.cache
+/home/evans/devel/progex/builderTriangle/obj/Debug/netcoreapp3.1/builderTriangle.AssemblyInfo.cs
+/home/evans/devel/progex/builderTriangle/obj/Debug/netcoreapp3.1/builderTriangle.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/builderTriangle/obj/Debug/netcoreapp3.1/builderTriangle.dll
+/home/evans/devel/progex/builderTriangle/obj/Debug/netcoreapp3.1/builderTriangle.pdb
+/home/evans/devel/progex/builderTriangle/obj/Debug/netcoreapp3.1/builderTriangle.genruntimeconfig.cache

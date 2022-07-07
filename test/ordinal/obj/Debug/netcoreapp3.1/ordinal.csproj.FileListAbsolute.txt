@@ -1,0 +1,13 @@
+/home/evans/devel/progex/ordinal/bin/Debug/netcoreapp3.1/ordinal
+/home/evans/devel/progex/ordinal/bin/Debug/netcoreapp3.1/ordinal.deps.json
+/home/evans/devel/progex/ordinal/bin/Debug/netcoreapp3.1/ordinal.runtimeconfig.json
+/home/evans/devel/progex/ordinal/bin/Debug/netcoreapp3.1/ordinal.runtimeconfig.dev.json
+/home/evans/devel/progex/ordinal/bin/Debug/netcoreapp3.1/ordinal.dll
+/home/evans/devel/progex/ordinal/bin/Debug/netcoreapp3.1/ordinal.pdb
+/home/evans/devel/progex/ordinal/obj/Debug/netcoreapp3.1/ordinal.csprojAssemblyReference.cache
+/home/evans/devel/progex/ordinal/obj/Debug/netcoreapp3.1/ordinal.AssemblyInfoInputs.cache
+/home/evans/devel/progex/ordinal/obj/Debug/netcoreapp3.1/ordinal.AssemblyInfo.cs
+/home/evans/devel/progex/ordinal/obj/Debug/netcoreapp3.1/ordinal.csproj.CoreCompileInputs.cache
+/home/evans/devel/progex/ordinal/obj/Debug/netcoreapp3.1/ordinal.dll
+/home/evans/devel/progex/ordinal/obj/Debug/netcoreapp3.1/ordinal.pdb
+/home/evans/devel/progex/ordinal/obj/Debug/netcoreapp3.1/ordinal.genruntimeconfig.cache
